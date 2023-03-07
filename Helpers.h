@@ -1,0 +1,2 @@
+float getNumber();
+int getUserOption();
